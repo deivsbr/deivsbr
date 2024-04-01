@@ -8,5 +8,4 @@ My name is Deividi Henrique.
 </div>
 
 
-![Snake animation](https://github.com/deivsbr/deivsbr/blob/output/github-contribution-grid-snake.svg)
 
