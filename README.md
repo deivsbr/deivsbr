@@ -7,13 +7,11 @@
   </a>
 </h1>
 
-
 <div align="center">
   <a href="https://github.com/deivsbr">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deivsbr&show_icons=true&theme=dark&&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivsbr&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats-ochre-seven-88.vercel.app/api?username=deivsbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-ochre-seven-88.vercel.app/api/top-langs/?username=deivsbr&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
-    
 
 
