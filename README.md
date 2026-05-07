@@ -19,15 +19,22 @@
 - 🌱 Aprendendo...
 - 📫 Contato: ...
 
-## 🛠️ Tecnologias que uso
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-<!-- adicione as que você usa -->
-
-## 📊 Stats (já tem os cards)
-
-## 🏆 Troféus do GitHub
-<img src="https://github-profile-trophy.vercel.app/?username=deivsbr&theme=dark"/>
+## 🛠️ TECNOLOGIAS QUE USO
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Html" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
+  <img align="center" alt="Css" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg">
+  <img align="center" alt="React Native" height="30" width="40" src="hhttps://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg">
+  <img align="center" alt="Apple" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Apple-Dark.svg">
+  <img align="center" alt="Pr" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Premiere.svg">
+  <img align="center" alt="Ae" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/AfterEffects.svg">
+  <img align="center" alt="Ai" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg">
+  <img align="center" alt="Ps" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg">
+ 
+  
+</div>
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
