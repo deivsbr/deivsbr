@@ -41,10 +41,12 @@
 </div>
 
 ## 🔗 Links
+<div align="center">
 <a href="https://linkedin.com/in/deividi-henrique" target="_blank">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="48" />
 </a>
 <a href="https://instagram.com/_deividii" target="_blank">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="48" />
 </a>
+</div>
 
