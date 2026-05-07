@@ -15,13 +15,13 @@
 </div>
 
 ## 👋 Sobre mim
-🌐 Desenvolvimento Web (HTML, CSS, JavaScript)
-🎮 Desenvolvimento de jogos 2D e pixel art
-🎨 UI/UX e interfaces modernas
-⚡ Animações para páginas e experiências visuais
-🧩 Gamificação aplicada a aplicações e educação
-🎬 Edição de vídeo e motion design com Adobe Premiere Pro e After Effects
-🖌️ Arte digital, ilustração vetorial e pixel art
+- 🌐 Desenvolvimento Web (HTML, CSS, JavaScript)
+- 🎮 Desenvolvimento de jogos 2D e pixel art
+- 🎨 UI/UX e interfaces modernas
+- ⚡ Animações para páginas e experiências visuais
+- 🧩 Gamificação aplicada a aplicações e educação
+- 🎬 Edição de vídeo e motion design com Adobe Premiere Pro e After Effects
+- 🖌️ Arte digital, ilustração vetorial e pixel art
 
 ## 🛠️ TECNOLOGIAS QUE USO
 <div style="display: inline_block" align="center"><br>
