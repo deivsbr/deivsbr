@@ -14,4 +14,22 @@
   </a>
 </div>
 
+## 👋 Sobre mim
+- 🔭 Atualmente trabalhando em...
+- 🌱 Aprendendo...
+- 📫 Contato: ...
+
+## 🛠️ Tecnologias que uso
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<!-- adicione as que você usa -->
+
+## 📊 Stats (já tem os cards)
+
+## 🏆 Troféus do GitHub
+<img src="https://github-profile-trophy.vercel.app/?username=deivsbr&theme=dark"/>
+
+## 🔗 Links
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+
 
