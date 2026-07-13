@@ -11,11 +11,15 @@
   <a href="https://github.com/deivsbr">
  <img
   src="https://github-stats-extended.vercel.app/api?username=deivsbr"
-  height="220"
+  height="140"
   alt="GitHub Stats"
 />
-   ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=deivsbr)
-   ![Streak](https://github-stats-extended.vercel.app/api/streak?username=deivsbr)
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=deivsbr"
+  height="150"
+  alt="Top Languages">
+<img src="https://github-stats-extended.vercel.app/api/streak?username=deivsbr"
+  height="150"
+  alt="Streak">
   </a>
 </div>
 
