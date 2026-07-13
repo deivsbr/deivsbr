@@ -10,16 +10,14 @@
 <div align="center">
   <a href="https://github.com/deivsbr">
  <img
-  src="https://github-stats-extended.vercel.app/api?username=deivsbr"
-  height="140"
+  src="https://github-stats-extended.vercel.app/api?username=deivsbr&show_icons=true&include_all_commits=true&theme=midnight-purple"
+  height="200"
   alt="GitHub Stats"
 />
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=deivsbr"
-  height="150"
+<img src="https://github-stats-extended.vercel.app/api?username=deivsbr&show_icons=true&include_all_commits=true&theme=midnight-purple"
+  height="200"
   alt="Top Languages">
-<img src="https://github-stats-extended.vercel.app/api/streak?username=deivsbr"
-  height="150"
-  alt="Streak">
+
   </a>
 </div>
 
