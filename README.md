@@ -9,7 +9,13 @@
 
 <div align="center">
   <a href="https://github.com/deivsbr">
- 
+ <img
+  src="https://github-stats-extended.vercel.app/api?username=deivsbr"
+  height="220"
+  alt="GitHub Stats"
+/>
+   ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=deivsbr)
+   ![Streak](https://github-stats-extended.vercel.app/api/streak?username=deivsbr)
   </a>
 </div>
 
