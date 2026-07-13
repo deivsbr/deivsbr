@@ -14,10 +14,9 @@
   height="200"
   alt="GitHub Stats"
 />
-<img src="https://github-stats-extended.vercel.app/api?username=deivsbr&show_icons=true&include_all_commits=true&theme=midnight-purple"
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=deivsbr&layout=donut-vertical&langs_count=4&theme=midnight-purple"
   height="200"
   alt="Top Languages">
-
   </a>
 </div>
 
