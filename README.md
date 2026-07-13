@@ -9,9 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/deivsbr">
- ![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+ 
   </a>
 </div>
 
