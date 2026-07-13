@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/deivsbr">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=deivsbr&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=deivsbr&show_icons=true&include_all_commits=true&theme=midnight-purple)
+  https://github-stats-extended.vercel.app/api?username=deivsbr&show_icons=true&include_all_commits=true&theme=midnight-purple
   </a>
 </div>
 
